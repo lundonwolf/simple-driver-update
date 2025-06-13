@@ -1,0 +1,40 @@
+2025-06-13 02:07:18 - DriverUpdater - INFO - Logger initialized
+2025-06-13 02:07:18 - DriverUpdater - INFO - WMI connection initialized successfully
+2025-06-13 02:07:18 - DriverUpdater - INFO - GUI log handler added
+2025-06-13 02:07:20 - DriverUpdater - INFO - Starting comprehensive driver scan...
+2025-06-13 02:07:20 - DriverUpdater - INFO - Scanning PnP drivers...
+2025-06-13 02:07:20 - DriverUpdater - ERROR - Error scanning PnP drivers: winmgmts:.Win32_PnPEntity
+2025-06-13 02:07:20 - DriverUpdater - INFO - Found 0 PnP drivers
+2025-06-13 02:07:20 - DriverUpdater - INFO - Scanning system drivers...
+2025-06-13 02:07:20 - DriverUpdater - ERROR - Error scanning system drivers: winmgmts:.Win32_SystemDriver
+2025-06-13 02:07:20 - DriverUpdater - INFO - Found 0 system drivers
+2025-06-13 02:07:20 - DriverUpdater - INFO - Driver scan completed. Found 0 unique drivers.
+2025-06-13 02:07:20 - DriverUpdater - INFO - Driver scan completed. Found 0 drivers.
+2025-06-13 02:07:45 - DriverUpdater - INFO - Starting comprehensive driver scan...
+2025-06-13 02:07:45 - DriverUpdater - INFO - Scanning PnP drivers...
+2025-06-13 02:07:45 - DriverUpdater - ERROR - Error scanning PnP drivers: winmgmts:.Win32_PnPEntity
+2025-06-13 02:07:45 - DriverUpdater - INFO - Found 0 PnP drivers
+2025-06-13 02:07:45 - DriverUpdater - INFO - Scanning system drivers...
+2025-06-13 02:07:45 - DriverUpdater - ERROR - Error scanning system drivers: winmgmts:.Win32_SystemDriver
+2025-06-13 02:07:45 - DriverUpdater - INFO - Found 0 system drivers
+2025-06-13 02:07:45 - DriverUpdater - INFO - Driver scan completed. Found 0 unique drivers.
+2025-06-13 02:07:45 - DriverUpdater - INFO - Driver scan completed. Found 0 drivers.
+2025-06-13 02:07:46 - DriverUpdater - INFO - Starting comprehensive driver scan...
+2025-06-13 02:07:46 - DriverUpdater - INFO - Scanning PnP drivers...
+2025-06-13 02:07:46 - DriverUpdater - ERROR - Error scanning PnP drivers: winmgmts:.Win32_PnPEntity
+2025-06-13 02:07:46 - DriverUpdater - INFO - Found 0 PnP drivers
+2025-06-13 02:07:46 - DriverUpdater - INFO - Scanning system drivers...
+2025-06-13 02:07:46 - DriverUpdater - ERROR - Error scanning system drivers: winmgmts:.Win32_SystemDriver
+2025-06-13 02:07:46 - DriverUpdater - INFO - Found 0 system drivers
+2025-06-13 02:07:46 - DriverUpdater - INFO - Driver scan completed. Found 0 unique drivers.
+2025-06-13 02:07:46 - DriverUpdater - INFO - Driver scan completed. Found 0 drivers.
+2025-06-13 02:07:47 - DriverUpdater - INFO - Starting comprehensive driver scan...
+2025-06-13 02:07:47 - DriverUpdater - INFO - Scanning PnP drivers...
+2025-06-13 02:07:47 - DriverUpdater - ERROR - Error scanning PnP drivers: winmgmts:.Win32_PnPEntity
+2025-06-13 02:07:47 - DriverUpdater - INFO - Found 0 PnP drivers
+2025-06-13 02:07:47 - DriverUpdater - INFO - Scanning system drivers...
+2025-06-13 02:07:47 - DriverUpdater - ERROR - Error scanning system drivers: winmgmts:.Win32_SystemDriver
+2025-06-13 02:07:47 - DriverUpdater - INFO - Found 0 system drivers
+2025-06-13 02:07:47 - DriverUpdater - INFO - Driver scan completed. Found 0 unique drivers.
+2025-06-13 02:07:47 - DriverUpdater - INFO - Driver scan completed. Found 0 drivers.
+2025-06-13 02:07:52 - DriverUpdater - INFO - Cleaned up temporary files

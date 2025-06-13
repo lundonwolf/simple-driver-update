@@ -1,0 +1,326 @@
+2025-06-13 02:30:35 - DriverUpdater - INFO - Logger initialized
+2025-06-13 02:30:35 - DriverUpdater - INFO - WMI connection initialized successfully
+2025-06-13 02:30:35 - DriverUpdater - INFO - GUI log handler added
+2025-06-13 02:30:37 - DriverUpdater - INFO - Starting comprehensive driver scan...
+2025-06-13 02:30:37 - DriverUpdater - INFO - Scanning PnP drivers...
+2025-06-13 02:30:37 - DriverUpdater - ERROR - Error scanning PnP drivers: winmgmts:.Win32_PnPEntity
+2025-06-13 02:30:37 - DriverUpdater - INFO - Found 0 PnP drivers
+2025-06-13 02:30:37 - DriverUpdater - INFO - Scanning system drivers...
+2025-06-13 02:30:37 - DriverUpdater - ERROR - Error scanning system drivers: winmgmts:.Win32_SystemDriver
+2025-06-13 02:30:37 - DriverUpdater - INFO - Attempting alternative driver scan method...
+2025-06-13 02:30:37 - DriverUpdater - INFO - Using PowerShell to scan drivers...
+2025-06-13 02:30:40 - DriverUpdater - INFO - Found 387 system drivers
+2025-06-13 02:30:40 - DriverUpdater - INFO - Driver scan completed. Found 206 unique drivers.
+2025-06-13 02:30:40 - DriverUpdater - INFO - Driver scan completed. Found 206 drivers.
+2025-06-13 02:30:50 - DriverUpdater - INFO - Checking for updates for 206 drivers...
+2025-06-13 02:30:50 - DriverUpdater - INFO - Checking updates for driver 1/206: Xvdd SCSI Miniport
+2025-06-13 02:30:51 - DriverUpdater - INFO - Checking updates for driver 2/206: Local Print Queue
+2025-06-13 02:30:52 - DriverUpdater - INFO - Checking updates for driver 3/206: WAN Miniport (Network Monitor)
+2025-06-13 02:30:53 - DriverUpdater - INFO - Checking updates for driver 4/206: WAN Miniport (IPv6)
+2025-06-13 02:30:54 - DriverUpdater - INFO - Checking updates for driver 5/206: WAN Miniport (IP)
+2025-06-13 02:30:55 - DriverUpdater - INFO - Checking updates for driver 6/206: WAN Miniport (PPPOE)
+2025-06-13 02:30:56 - DriverUpdater - INFO - Checking updates for driver 7/206: WAN Miniport (PPTP)
+2025-06-13 02:30:57 - DriverUpdater - INFO - Checking updates for driver 8/206: WAN Miniport (L2TP)
+2025-06-13 02:30:58 - DriverUpdater - INFO - Checking updates for driver 9/206: WAN Miniport (IKEv2)
+2025-06-13 02:30:59 - DriverUpdater - INFO - Checking updates for driver 10/206: WAN Miniport (SSTP)
+2025-06-13 02:31:00 - DriverUpdater - INFO - Checking updates for driver 11/206: Generic software device
+2025-06-13 02:31:01 - DriverUpdater - INFO - Checking updates for driver 12/206: Hyper-V Virtual Switch Extension Adapter
+2025-06-13 02:31:02 - DriverUpdater - INFO - Checking updates for driver 13/206: Miracast display port driver V3
+2025-06-13 02:31:03 - DriverUpdater - INFO - Checking updates for driver 14/206: WSD Scan Device
+2025-06-13 02:31:04 - DriverUpdater - INFO - Checking updates for driver 15/206: WSD Print Device
+2025-06-13 02:31:05 - DriverUpdater - INFO - Checking updates for driver 16/206: Generic software device
+2025-06-13 02:31:06 - DriverUpdater - INFO - Checking updates for driver 17/206: Digital Media Device
+2025-06-13 02:31:07 - DriverUpdater - INFO - Checking updates for driver 18/206: Local Print Queue
+2025-06-13 02:31:08 - DriverUpdater - INFO - Checking updates for driver 19/206: Brother MFC-L2740DW series
+2025-06-13 02:31:09 - DriverUpdater - INFO - Checking updates for driver 20/206: Brother MFC-L2740DW series
+2025-06-13 02:31:10 - DriverUpdater - INFO - Checking updates for driver 21/206: Computer Device
+2025-06-13 02:31:11 - DriverUpdater - INFO - Checking updates for driver 22/206: Voicemod Virtual Audio Device (WDM)
+2025-06-13 02:31:12 - DriverUpdater - INFO - Checking updates for driver 23/206: Audio Endpoint
+2025-06-13 02:31:13 - DriverUpdater - INFO - Checking updates for driver 24/206: VB-Audio Voicemeeter VAIO
+2025-06-13 02:31:14 - DriverUpdater - INFO - Checking updates for driver 25/206: Remote Desktop Device Redirector Bus
+2025-06-13 02:31:15 - DriverUpdater - INFO - Checking updates for driver 26/206: Logitech G HUB Virtual Bus Enumerator
+2025-06-13 02:31:16 - DriverUpdater - INFO - Checking updates for driver 27/206: Microsoft Streaming Service Proxy
+2025-06-13 02:31:17 - DriverUpdater - INFO - Checking updates for driver 28/206: Plug and Play Software Device Enumerator
+2025-06-13 02:31:18 - DriverUpdater - INFO - Checking updates for driver 29/206: Microsoft System Management BIOS Driver
+2025-06-13 02:31:19 - DriverUpdater - INFO - Checking updates for driver 30/206: NDIS Virtual Network Adapter Enumerator
+2025-06-13 02:31:20 - DriverUpdater - INFO - Checking updates for driver 31/206: NVIDIA Broadcast
+2025-06-13 02:31:21 - DriverUpdater - INFO - Checking updates for driver 32/206: NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+2025-06-13 02:31:22 - DriverUpdater - INFO - Checking updates for driver 33/206: Microsoft Hyper-V Virtual Disk Server
+2025-06-13 02:31:23 - DriverUpdater - INFO - Checking updates for driver 34/206: Animaze Virtual Camera
+2025-06-13 02:31:24 - DriverUpdater - INFO - Checking updates for driver 35/206: USB Scanner Device
+2025-06-13 02:31:25 - DriverUpdater - INFO - Checking updates for driver 36/206: Microsoft Basic Render Driver
+2025-06-13 02:31:26 - DriverUpdater - INFO - Checking updates for driver 37/206: Microsoft Hyper-V PCI Server
+2025-06-13 02:31:27 - DriverUpdater - INFO - Checking updates for driver 38/206: System Firmware
+2025-06-13 02:31:28 - DriverUpdater - INFO - Checking updates for driver 39/206: Microsoft UEFI-Compliant System
+2025-06-13 02:31:29 - DriverUpdater - INFO - Checking updates for driver 40/206: ACPI Fixed Feature Button
+2025-06-13 02:31:30 - DriverUpdater - INFO - Checking updates for driver 41/206: AMD Processor
+2025-06-13 02:31:31 - DriverUpdater - INFO - Checking updates for driver 42/206: Microsoft Windows Management Interface for ACPI
+2025-06-13 02:31:32 - DriverUpdater - INFO - Checking updates for driver 43/206: Motherboard resources
+2025-06-13 02:31:33 - DriverUpdater - INFO - Checking updates for driver 44/206: Trusted Platform Module 2.0
+2025-06-13 02:31:34 - DriverUpdater - INFO - Checking updates for driver 45/206: AMD GPIO Controller
+2025-06-13 02:31:35 - DriverUpdater - INFO - Checking updates for driver 46/206: High precision event timer
+2025-06-13 02:31:36 - DriverUpdater - INFO - Checking updates for driver 47/206: ACPI Power Button
+2025-06-13 02:31:37 - DriverUpdater - INFO - Checking updates for driver 48/206: System board
+2025-06-13 02:31:38 - DriverUpdater - INFO - Checking updates for driver 49/206: PCI standard host CPU bridge
+2025-06-13 02:31:39 - DriverUpdater - INFO - Checking updates for driver 50/206: PCI standard host CPU bridge
+2025-06-13 02:31:40 - DriverUpdater - INFO - Checking updates for driver 51/206: PCI standard host CPU bridge
+2025-06-13 02:31:41 - DriverUpdater - INFO - Checking updates for driver 52/206: PCI standard host CPU bridge
+2025-06-13 02:31:42 - DriverUpdater - INFO - Checking updates for driver 53/206: PCI standard host CPU bridge
+2025-06-13 02:31:43 - DriverUpdater - INFO - Checking updates for driver 54/206: PCI standard host CPU bridge
+2025-06-13 02:31:44 - DriverUpdater - INFO - Checking updates for driver 55/206: PCI standard host CPU bridge
+2025-06-13 02:31:45 - DriverUpdater - INFO - Checking updates for driver 56/206: PCI standard host CPU bridge
+2025-06-13 02:31:46 - DriverUpdater - INFO - Checking updates for driver 57/206: Microsoft ACPI-Compliant Embedded Controller
+2025-06-13 02:31:47 - DriverUpdater - INFO - Checking updates for driver 58/206: System speaker
+2025-06-13 02:31:48 - DriverUpdater - INFO - Checking updates for driver 59/206: System CMOS/real time clock
+2025-06-13 02:31:49 - DriverUpdater - INFO - Checking updates for driver 60/206: System timer
+2025-06-13 02:31:50 - DriverUpdater - INFO - Checking updates for driver 61/206: Direct memory access controller
+2025-06-13 02:31:51 - DriverUpdater - INFO - Checking updates for driver 62/206: Programmable interrupt controller
+2025-06-13 02:31:52 - DriverUpdater - INFO - Checking updates for driver 63/206: PCI standard ISA bridge
+2025-06-13 02:31:53 - DriverUpdater - INFO - Checking updates for driver 64/206: AMD SMBus
+2025-06-13 02:31:54 - DriverUpdater - INFO - Checking updates for driver 65/206: Realtek Audio Universal Service
+2025-06-13 02:31:55 - DriverUpdater - INFO - Checking updates for driver 66/206: Realtek Hardware Support Application
+2025-06-13 02:31:56 - DriverUpdater - INFO - Checking updates for driver 67/206: Realtek Asio Component
+2025-06-13 02:31:57 - DriverUpdater - INFO - Checking updates for driver 68/206: Realtek Audio Effects Component
+2025-06-13 02:31:58 - DriverUpdater - INFO - Checking updates for driver 69/206: Nahimic 3 APO
+2025-06-13 02:31:59 - DriverUpdater - INFO - Checking updates for driver 70/206: Sonic Studio Virtual Mixer
+2025-06-13 02:32:00 - DriverUpdater - INFO - Checking updates for driver 71/206: Realtek High Definition Audio
+2025-06-13 02:32:01 - DriverUpdater - INFO - Checking updates for driver 72/206: High Definition Audio Controller
+2025-06-13 02:32:02 - DriverUpdater - INFO - Checking updates for driver 73/206: HID UPS Battery
+2025-06-13 02:32:03 - DriverUpdater - INFO - Checking updates for driver 74/206: American Power Conversion USB UPS
+2025-06-13 02:32:04 - DriverUpdater - INFO - Checking updates for driver 75/206: USB Root Hub (USB 3.0)
+2025-06-13 02:32:05 - DriverUpdater - INFO - Checking updates for driver 76/206: USB xHCI Compliant Host Controller
+2025-06-13 02:32:06 - DriverUpdater - INFO - Checking updates for driver 77/206: AMD PSP 11.0 Device
+2025-06-13 02:32:07 - DriverUpdater - INFO - Checking updates for driver 78/206: AMD PCI
+2025-06-13 02:32:08 - DriverUpdater - INFO - Checking updates for driver 79/206: PCI-to-PCI Bridge
+2025-06-13 02:32:09 - DriverUpdater - INFO - Checking updates for driver 80/206: PCI standard host CPU bridge
+2025-06-13 02:32:10 - DriverUpdater - INFO - Checking updates for driver 81/206: AMD PCI
+2025-06-13 02:32:11 - DriverUpdater - INFO - Checking updates for driver 82/206: PCI-to-PCI Bridge
+2025-06-13 02:32:12 - DriverUpdater - INFO - Checking updates for driver 83/206: PCI standard host CPU bridge
+2025-06-13 02:32:13 - DriverUpdater - INFO - Checking updates for driver 84/206: PCI standard host CPU bridge
+2025-06-13 02:32:14 - DriverUpdater - INFO - Checking updates for driver 85/206: PCI standard host CPU bridge
+2025-06-13 02:32:16 - DriverUpdater - INFO - Checking updates for driver 86/206: NVIDIA High Definition Audio
+2025-06-13 02:32:17 - DriverUpdater - INFO - Checking updates for driver 87/206: High Definition Audio Controller
+2025-06-13 02:32:18 - DriverUpdater - INFO - Checking updates for driver 88/206: NVIDIA GeForce RTX 3060
+2025-06-13 02:32:19 - DriverUpdater - INFO - Checking updates for driver 89/206: PCI-to-PCI Bridge
+2025-06-13 02:32:20 - DriverUpdater - INFO - Checking updates for driver 90/206: High Definition Audio Controller
+2025-06-13 02:32:21 - DriverUpdater - INFO - Checking updates for driver 91/206: Generic PnP Monitor
+2025-06-13 02:32:22 - DriverUpdater - INFO - Checking updates for driver 92/206: Acer X243W (Digital)
+2025-06-13 02:32:23 - DriverUpdater - INFO - Checking updates for driver 93/206: NVIDIA GeForce RTX 3080 Ti
+2025-06-13 02:32:24 - DriverUpdater - INFO - Checking updates for driver 94/206: PCI-to-PCI Bridge
+2025-06-13 02:32:25 - DriverUpdater - INFO - Checking updates for driver 95/206: PCI standard host CPU bridge
+2025-06-13 02:32:26 - DriverUpdater - INFO - Checking updates for driver 96/206: PCI standard host CPU bridge
+2025-06-13 02:32:27 - DriverUpdater - INFO - Checking updates for driver 97/206: Disk drive
+2025-06-13 02:32:28 - DriverUpdater - INFO - Checking updates for driver 98/206: Standard SATA AHCI Controller
+2025-06-13 02:32:29 - DriverUpdater - INFO - Checking updates for driver 99/206: PCI-to-PCI Bridge
+2025-06-13 02:32:30 - DriverUpdater - INFO - Checking updates for driver 100/206: Disk drive
+2025-06-13 02:32:31 - DriverUpdater - INFO - Checking updates for driver 101/206: Disk drive
+2025-06-13 02:32:32 - DriverUpdater - INFO - Checking updates for driver 102/206: Standard SATA AHCI Controller
+2025-06-13 02:32:33 - DriverUpdater - INFO - Checking updates for driver 103/206: PCI-to-PCI Bridge
+2025-06-13 02:32:34 - DriverUpdater - INFO - Checking updates for driver 104/206: HID Keyboard Device
+2025-06-13 02:32:35 - DriverUpdater - INFO - Checking updates for driver 105/206: HID-compliant consumer control device
+2025-06-13 02:32:36 - DriverUpdater - INFO - Checking updates for driver 106/206: HID-compliant vendor-defined device
+2025-06-13 02:32:37 - DriverUpdater - INFO - Checking updates for driver 107/206: USB Input Device
+2025-06-13 02:32:38 - DriverUpdater - INFO - Checking updates for driver 108/206: USB Composite Device
+2025-06-13 02:32:39 - DriverUpdater - INFO - Checking updates for driver 109/206: USB Input Device
+2025-06-13 02:32:40 - DriverUpdater - INFO - Checking updates for driver 110/206: RP4xx Series 200DPI ZPL
+2025-06-13 02:32:41 - DriverUpdater - INFO - Checking updates for driver 111/206: USB Printing Support
+2025-06-13 02:32:42 - DriverUpdater - INFO - Checking updates for driver 112/206: USB Audio Device
+2025-06-13 02:32:43 - DriverUpdater - INFO - Checking updates for driver 113/206: USB Video Device
+2025-06-13 02:32:44 - DriverUpdater - INFO - Checking updates for driver 114/206: USB Composite Device
+2025-06-13 02:32:45 - DriverUpdater - INFO - Checking updates for driver 115/206: Generic USB Hub
+2025-06-13 02:32:46 - DriverUpdater - INFO - Checking updates for driver 116/206: USB Input Device
+2025-06-13 02:32:47 - DriverUpdater - INFO - Checking updates for driver 117/206: Generic SuperSpeed USB Hub
+2025-06-13 02:32:48 - DriverUpdater - INFO - Checking updates for driver 118/206: USB xHCI Compliant Host Controller
+2025-06-13 02:32:49 - DriverUpdater - INFO - Checking updates for driver 119/206: Bluetooth LE Generic Attribute Service
+2025-06-13 02:32:50 - DriverUpdater - INFO - Checking updates for driver 120/206: Device Information Service
+2025-06-13 02:32:51 - DriverUpdater - INFO - Checking updates for driver 121/206: HID-compliant mouse
+2025-06-13 02:32:52 - DriverUpdater - INFO - Checking updates for driver 122/206: HID-compliant system controller
+2025-06-13 02:32:53 - DriverUpdater - INFO - Checking updates for driver 123/206: Bluetooth Low Energy GATT compliant HID device
+2025-06-13 02:32:54 - DriverUpdater - INFO - Checking updates for driver 124/206: Generic Access Profile
+2025-06-13 02:32:55 - DriverUpdater - INFO - Checking updates for driver 125/206: Bluetooth LE Device
+2025-06-13 02:32:56 - DriverUpdater - INFO - Checking updates for driver 126/206: Generic Attribute Profile
+2025-06-13 02:32:57 - DriverUpdater - INFO - Checking updates for driver 127/206: Logitech Download Assistant
+2025-06-13 02:32:58 - DriverUpdater - INFO - Checking updates for driver 128/206: Microsoft Bluetooth LE Enumerator
+2025-06-13 02:32:59 - DriverUpdater - INFO - Checking updates for driver 129/206: Bluetooth Device (Personal Area Network)
+2025-06-13 02:33:00 - DriverUpdater - INFO - Checking updates for driver 130/206: Bluetooth Device
+2025-06-13 02:33:01 - DriverUpdater - INFO - Checking updates for driver 131/206: AudioWear
+2025-06-13 02:33:01 - DriverUpdater - ERROR - Error checking updates for AudioWear: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:01 - DriverUpdater - INFO - Checking updates for driver 132/206: CDP Proximal Transport Service
+2025-06-13 02:33:02 - DriverUpdater - INFO - Checking updates for driver 133/206: Serial HPC
+2025-06-13 02:33:02 - DriverUpdater - ERROR - Error checking updates for Serial HPC: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:02 - DriverUpdater - INFO - Checking updates for driver 134/206: SerialPort
+2025-06-13 02:33:02 - DriverUpdater - ERROR - Error checking updates for SerialPort: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:02 - DriverUpdater - INFO - Checking updates for driver 135/206: AudioWear Voice
+2025-06-13 02:33:02 - DriverUpdater - ERROR - Error checking updates for AudioWear Voice: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:02 - DriverUpdater - INFO - Checking updates for driver 136/206: CSR GAIAT
+2025-06-13 02:33:02 - DriverUpdater - ERROR - Error checking updates for CSR GAIAT: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:02 - DriverUpdater - INFO - Checking updates for driver 137/206: Serial MC
+2025-06-13 02:33:02 - DriverUpdater - ERROR - Error checking updates for Serial MC: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:02 - DriverUpdater - INFO - Checking updates for driver 138/206: AAP Client
+2025-06-13 02:33:02 - DriverUpdater - ERROR - Error checking updates for AAP Client: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:02 - DriverUpdater - INFO - Checking updates for driver 139/206: Wireless iAP v2
+2025-06-13 02:33:02 - DriverUpdater - ERROR - Error checking updates for Wireless iAP v2: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:02 - DriverUpdater - INFO - Checking updates for driver 140/206: GATT
+2025-06-13 02:33:02 - DriverUpdater - ERROR - Error checking updates for GATT: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:02 - DriverUpdater - INFO - Checking updates for driver 141/206: Device Identification Service
+2025-06-13 02:33:03 - DriverUpdater - INFO - Checking updates for driver 142/206: MAP MAS-iOS
+2025-06-13 02:33:03 - DriverUpdater - ERROR - Error checking updates for MAP MAS-iOS: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:03 - DriverUpdater - INFO - Checking updates for driver 143/206: Phonebook Access Pse Service
+2025-06-13 02:33:04 - DriverUpdater - INFO - Checking updates for driver 144/206: Magic Mouse 1 Bluetooth device interface
+2025-06-13 02:33:04 - DriverUpdater - ERROR - Error checking updates for Magic Mouse 1 Bluetooth device interface: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:04 - DriverUpdater - INFO - Checking updates for driver 145/206: Magic Mouse 2009 - Bluetooth
+2025-06-13 02:33:05 - DriverUpdater - INFO - Checking updates for driver 146/206: Microsoft Bluetooth Hands-Free Profile Handsfree role
+2025-06-13 02:33:06 - DriverUpdater - INFO - Checking updates for driver 147/206: Microsoft Bluetooth Hands-Free Audio device
+2025-06-13 02:33:07 - DriverUpdater - INFO - Checking updates for driver 148/206: Microsoft Bluetooth Hands-Free Profile AudioGateway role
+2025-06-13 02:33:08 - DriverUpdater - INFO - Checking updates for driver 149/206: Personal Area Network NAP Service
+2025-06-13 02:33:09 - DriverUpdater - INFO - Checking updates for driver 150/206: Personal Area Network Service
+2025-06-13 02:33:10 - DriverUpdater - INFO - Checking updates for driver 151/206: Microsoft Bluetooth Avrcp Transport Driver
+2025-06-13 02:33:11 - DriverUpdater - INFO - Checking updates for driver 152/206: Microsoft Bluetooth A2dp Source
+2025-06-13 02:33:12 - DriverUpdater - INFO - Checking updates for driver 153/206: Microsoft Bluetooth A2dp Sink
+2025-06-13 02:33:13 - DriverUpdater - INFO - Checking updates for driver 154/206: Service Discovery Service
+2025-06-13 02:33:14 - DriverUpdater - INFO - Checking updates for driver 155/206: Airoha_IAP2
+2025-06-13 02:33:14 - DriverUpdater - ERROR - Error checking updates for Airoha_IAP2: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:14 - DriverUpdater - INFO - Checking updates for driver 156/206: Wireless iAP
+2025-06-13 02:33:14 - DriverUpdater - ERROR - Error checking updates for Wireless iAP: 'NoneType' object has no attribute 'lower'
+2025-06-13 02:33:14 - DriverUpdater - INFO - Checking updates for driver 157/206: Microsoft Bluetooth Enumerator
+2025-06-13 02:33:15 - DriverUpdater - INFO - Checking updates for driver 158/206: Standard Serial over Bluetooth link
+2025-06-13 02:33:16 - DriverUpdater - INFO - Checking updates for driver 159/206: Bluetooth Device (RFCOMM Protocol TDI)
+2025-06-13 02:33:17 - DriverUpdater - INFO - Checking updates for driver 160/206: Intel(R) Wireless Bluetooth(R)
+2025-06-13 02:33:18 - DriverUpdater - INFO - Checking updates for driver 161/206: HID-compliant device
+2025-06-13 02:33:19 - DriverUpdater - INFO - Checking updates for driver 162/206: USB Input Device
+2025-06-13 02:33:20 - DriverUpdater - INFO - Checking updates for driver 163/206: WinUSB Generic Device
+2025-06-13 02:33:21 - DriverUpdater - INFO - Checking updates for driver 164/206: USB Composite Device
+2025-06-13 02:33:22 - DriverUpdater - INFO - Checking updates for driver 165/206: Generic USB Hub
+2025-06-13 02:33:23 - DriverUpdater - INFO - Checking updates for driver 166/206: Brother MFC-L2740DW series Remote Setup Port
+2025-06-13 02:33:24 - DriverUpdater - INFO - Checking updates for driver 167/206: Brother MFC-L2740DW
+2025-06-13 02:33:25 - DriverUpdater - INFO - Checking updates for driver 168/206: USB Printing Support
+2025-06-13 02:33:26 - DriverUpdater - INFO - Checking updates for driver 169/206: USB Composite Device
+2025-06-13 02:33:27 - DriverUpdater - INFO - Checking updates for driver 170/206: USB xHCI Compliant Host Controller
+2025-06-13 02:33:28 - DriverUpdater - INFO - Checking updates for driver 171/206: AMD PCI
+2025-06-13 02:33:29 - DriverUpdater - INFO - Checking updates for driver 172/206: PCI-to-PCI Bridge
+2025-06-13 02:33:30 - DriverUpdater - INFO - Checking updates for driver 173/206: Microsoft Wi-Fi Direct Virtual Adapter
+2025-06-13 02:33:31 - DriverUpdater - INFO - Checking updates for driver 174/206: Intel(R) Wi-Fi 6 AX200 160MHz
+2025-06-13 02:33:32 - DriverUpdater - INFO - Checking updates for driver 175/206: PCI-to-PCI Bridge
+2025-06-13 02:33:33 - DriverUpdater - INFO - Checking updates for driver 176/206: Intel(R) I211 Gigabit Network Connection
+2025-06-13 02:33:34 - DriverUpdater - INFO - Checking updates for driver 177/206: PCI-to-PCI Bridge
+2025-06-13 02:33:35 - DriverUpdater - INFO - Checking updates for driver 178/206: Realtek PCIe 2.5GbE Family Controller
+2025-06-13 02:33:36 - DriverUpdater - INFO - Checking updates for driver 179/206: PCI-to-PCI Bridge
+2025-06-13 02:33:37 - DriverUpdater - INFO - Checking updates for driver 180/206: Disk drive
+2025-06-13 02:33:38 - DriverUpdater - INFO - Checking updates for driver 181/206: Standard NVM Express Controller
+2025-06-13 02:33:39 - DriverUpdater - INFO - Checking updates for driver 182/206: PCI-to-PCI Bridge
+2025-06-13 02:33:40 - DriverUpdater - INFO - Checking updates for driver 183/206: PCI-to-PCI Bridge
+2025-06-13 02:33:41 - DriverUpdater - INFO - Checking updates for driver 184/206: PCI-to-PCI Bridge
+2025-06-13 02:33:42 - DriverUpdater - INFO - Checking updates for driver 185/206: Standard NVM Express Controller
+2025-06-13 02:33:43 - DriverUpdater - INFO - Checking updates for driver 186/206: PCI-to-PCI Bridge
+2025-06-13 02:33:44 - DriverUpdater - INFO - Checking updates for driver 187/206: PCI standard host CPU bridge
+2025-06-13 02:33:45 - DriverUpdater - INFO - Checking updates for driver 188/206: PCI standard host CPU bridge
+2025-06-13 02:33:46 - DriverUpdater - INFO - Checking updates for driver 189/206: PCI Express Root Complex
+2025-06-13 02:33:47 - DriverUpdater - INFO - Checking updates for driver 190/206: Microsoft ACPI-Compliant System
+2025-06-13 02:33:48 - DriverUpdater - INFO - Checking updates for driver 191/206: ACPI x64-based PC
+2025-06-13 02:33:49 - DriverUpdater - INFO - Checking updates for driver 192/206: Charge Arbitration Driver
+2025-06-13 02:33:50 - DriverUpdater - INFO - Checking updates for driver 193/206: UMBus Root Bus Enumerator
+2025-06-13 02:33:51 - DriverUpdater - INFO - Checking updates for driver 194/206: Microsoft Kernel Debug Network Adapter
+2025-06-13 02:33:52 - DriverUpdater - INFO - Checking updates for driver 195/206: Microsoft Storage Spaces Controller
+2025-06-13 02:33:53 - DriverUpdater - INFO - Checking updates for driver 196/206: Microsoft VHD Loopback Controller
+2025-06-13 02:33:54 - DriverUpdater - INFO - Checking updates for driver 197/206: Microsoft Virtual Drive Enumerator
+2025-06-13 02:33:55 - DriverUpdater - INFO - Checking updates for driver 198/206: Composite Bus Enumerator
+2025-06-13 02:33:56 - DriverUpdater - INFO - Checking updates for driver 199/206: Microsoft Hyper-V Virtualization Infrastructure Driver
+2025-06-13 02:33:57 - DriverUpdater - INFO - Checking updates for driver 200/206: Microsoft Hypervisor Service
+2025-06-13 02:33:58 - DriverUpdater - INFO - Checking updates for driver 201/206: Microsoft Basic Display Driver
+2025-06-13 02:33:59 - DriverUpdater - INFO - Checking updates for driver 202/206: Microsoft Hyper-V Virtual Machine Bus Provider
+2025-06-13 02:34:00 - DriverUpdater - INFO - Checking updates for driver 203/206: Volume
+2025-06-13 02:34:01 - DriverUpdater - INFO - Checking updates for driver 204/206: Generic volume shadow copy
+2025-06-13 02:34:02 - DriverUpdater - INFO - Checking updates for driver 205/206: Volume Manager
+2025-06-13 02:34:03 - DriverUpdater - INFO - Checking updates for driver 206/206: WorldCup Device
+2025-06-13 02:34:04 - DriverUpdater - INFO - Update check completed. Found 29 updates.
+2025-06-13 02:34:04 - DriverUpdater - INFO - Update check completed. Found 29 updates.
+2025-06-13 02:34:17 - DriverUpdater - INFO - Starting installation of 29 driver updates...
+2025-06-13 02:34:17 - DriverUpdater - INFO - Creating system restore point: Driver Updater - Batch Installation
+2025-06-13 02:35:01 - DriverUpdater - INFO - System restore point created successfully
+2025-06-13 02:35:01 - DriverUpdater - INFO - Installing update 1/29: WAN Miniport (PPPOE)
+2025-06-13 02:35:01 - DriverUpdater - INFO - Installing WAN Miniport (PPPOE) via Windows Update
+2025-06-13 02:35:13 - DriverUpdater - ERROR - Windows Update installation failed for WAN Miniport (PPPOE)
+2025-06-13 02:35:13 - DriverUpdater - ERROR - Failed to install update for WAN Miniport (PPPOE)
+2025-06-13 02:35:13 - DriverUpdater - INFO - Installing update 2/29: Microsoft System Management BIOS Driver
+2025-06-13 02:35:13 - DriverUpdater - INFO - Installing Microsoft System Management BIOS Driver via Windows Update
+2025-06-13 02:35:35 - DriverUpdater - ERROR - Windows Update installation failed for Microsoft System Management BIOS Driver
+2025-06-13 02:35:35 - DriverUpdater - ERROR - Failed to install update for Microsoft System Management BIOS Driver
+2025-06-13 02:35:35 - DriverUpdater - INFO - Installing update 3/29: AMD Processor
+2025-06-13 02:35:35 - DriverUpdater - INFO - Downloading driver from https://drivers.amd.com/drivers/installer/22.40/radeon-software-adrenalin-10.0.26101.4202.exe
+2025-06-13 02:35:35 - DriverUpdater - INFO - Driver downloaded successfully to C:\Users\Ian\AppData\Local\Temp\driver_updater_5q6jfosn\AMD_AMD Processor_10.0.26101.4202.exe
+2025-06-13 02:35:35 - DriverUpdater - ERROR - Download verification failed for AMD Processor
+2025-06-13 02:35:35 - DriverUpdater - ERROR - Failed to install update for AMD Processor
+2025-06-13 02:35:35 - DriverUpdater - INFO - Installing update 4/29: AMD GPIO Controller
+2025-06-13 02:35:35 - DriverUpdater - INFO - Downloading driver from https://drivers.amd.com/drivers/installer/22.40/radeon-software-adrenalin-2.2.1.133.exe
+2025-06-13 02:35:36 - DriverUpdater - INFO - Driver downloaded successfully to C:\Users\Ian\AppData\Local\Temp\driver_updater_5q6jfosn\AMD_AMD GPIO Controller_2.2.1.133.exe
+2025-06-13 02:35:36 - DriverUpdater - ERROR - Download verification failed for AMD GPIO Controller
+2025-06-13 02:35:36 - DriverUpdater - ERROR - Failed to install update for AMD GPIO Controller
+2025-06-13 02:35:36 - DriverUpdater - INFO - Installing update 5/29: AMD SMBus
+2025-06-13 02:35:36 - DriverUpdater - INFO - Downloading driver from https://drivers.amd.com/drivers/installer/22.40/radeon-software-adrenalin-5.12.1.44.exe
+2025-06-13 02:35:36 - DriverUpdater - INFO - Driver downloaded successfully to C:\Users\Ian\AppData\Local\Temp\driver_updater_5q6jfosn\AMD_AMD SMBus_5.12.1.44.exe
+2025-06-13 02:35:36 - DriverUpdater - ERROR - Download verification failed for AMD SMBus
+2025-06-13 02:35:36 - DriverUpdater - ERROR - Failed to install update for AMD SMBus
+2025-06-13 02:35:36 - DriverUpdater - INFO - Installing update 6/29: Realtek Audio Universal Service
+2025-06-13 02:35:36 - DriverUpdater - INFO - Downloading driver from https://www.realtek.com/downloads/1.0.1.530/realtek-driver.exe
+2025-06-13 02:35:36 - DriverUpdater - INFO - Driver downloaded successfully to C:\Users\Ian\AppData\Local\Temp\driver_updater_5q6jfosn\Realtek_Realtek Audio Universal Service_1.0.1.530.exe
+2025-06-13 02:35:36 - DriverUpdater - ERROR - Download verification failed for Realtek Audio Universal Service
+2025-06-13 02:35:36 - DriverUpdater - ERROR - Failed to install update for Realtek Audio Universal Service
+2025-06-13 02:35:36 - DriverUpdater - INFO - Installing update 7/29: Realtek Hardware Support Application
+2025-06-13 02:35:36 - DriverUpdater - INFO - Downloading driver from https://www.realtek.com/downloads/11.0.6001.273/realtek-driver.exe
+2025-06-13 02:35:36 - DriverUpdater - INFO - Driver downloaded successfully to C:\Users\Ian\AppData\Local\Temp\driver_updater_5q6jfosn\Realtek_Realtek Hardware Support Application_11.0.6001.273.exe
+2025-06-13 02:35:36 - DriverUpdater - ERROR - Download verification failed for Realtek Hardware Support Application
+2025-06-13 02:35:36 - DriverUpdater - ERROR - Failed to install update for Realtek Hardware Support Application
+2025-06-13 02:35:36 - DriverUpdater - INFO - Installing update 8/29: Realtek Asio Component
+2025-06-13 02:35:36 - DriverUpdater - INFO - Downloading driver from https://www.realtek.com/downloads/1.0.1.8/realtek-driver.exe
+2025-06-13 02:35:37 - DriverUpdater - INFO - Driver downloaded successfully to C:\Users\Ian\AppData\Local\Temp\driver_updater_5q6jfosn\Realtek_Realtek Asio Component_1.0.1.8.exe
+2025-06-13 02:35:37 - DriverUpdater - ERROR - Download verification failed for Realtek Asio Component
+2025-06-13 02:35:37 - DriverUpdater - ERROR - Failed to install update for Realtek Asio Component
+2025-06-13 02:35:37 - DriverUpdater - INFO - Installing update 9/29: Realtek Audio Effects Component
+2025-06-13 02:35:37 - DriverUpdater - INFO - Downloading driver from https://www.realtek.com/downloads/11.0.6001.1046/realtek-driver.exe
+2025-06-13 02:35:37 - DriverUpdater - INFO - Driver downloaded successfully to C:\Users\Ian\AppData\Local\Temp\driver_updater_5q6jfosn\Realtek_Realtek Audio Effects Component_11.0.6001.1046.exe
+2025-06-13 02:35:37 - DriverUpdater - ERROR - Download verification failed for Realtek Audio Effects Component
+2025-06-13 02:35:37 - DriverUpdater - ERROR - Failed to install update for Realtek Audio Effects Component
+2025-06-13 02:35:37 - DriverUpdater - INFO - Installing update 10/29: Realtek High Definition Audio
+2025-06-13 02:35:37 - DriverUpdater - INFO - Downloading driver from https://www.realtek.com/downloads/6.0.9755.1/realtek-driver.exe
+2025-06-13 02:35:37 - DriverUpdater - INFO - Driver downloaded successfully to C:\Users\Ian\AppData\Local\Temp\driver_updater_5q6jfosn\Realtek_Realtek High Definition Audio_6.0.9755.1.exe
+2025-06-13 02:35:37 - DriverUpdater - ERROR - Download verification failed for Realtek High Definition Audio
+2025-06-13 02:35:37 - DriverUpdater - ERROR - Failed to install update for Realtek High Definition Audio
+2025-06-13 02:35:37 - DriverUpdater - INFO - Installing update 11/29: AMD PSP 11.0 Device
+2025-06-13 02:35:37 - DriverUpdater - INFO - Downloading driver from https://drivers.amd.com/drivers/installer/22.40/radeon-software-adrenalin-5.27.1.0.exe
+2025-06-13 02:35:37 - DriverUpdater - INFO - Driver downloaded successfully to C:\Users\Ian\AppData\Local\Temp\driver_updater_5q6jfosn\AMD_AMD PSP 11.0 Device_5.27.1.0.exe
+2025-06-13 02:35:37 - DriverUpdater - ERROR - Download verification failed for AMD PSP 11.0 Device
+2025-06-13 02:35:37 - DriverUpdater - ERROR - Failed to install update for AMD PSP 11.0 Device
+2025-06-13 02:35:37 - DriverUpdater - INFO - Installing update 12/29: AMD PCI
+2025-06-13 02:35:37 - DriverUpdater - INFO - Downloading driver from https://drivers.amd.com/drivers/installer/22.40/radeon-software-adrenalin-1.0.1.90.exe
+2025-06-13 02:35:38 - DriverUpdater - INFO - Driver downloaded successfully to C:\Users\Ian\AppData\Local\Temp\driver_updater_5q6jfosn\AMD_AMD PCI_1.0.1.90.exe
+2025-06-13 02:35:38 - DriverUpdater - ERROR - Download verification failed for AMD PCI
+2025-06-13 02:35:38 - DriverUpdater - ERROR - Failed to install update for AMD PCI
+2025-06-13 02:35:38 - DriverUpdater - INFO - Installing update 13/29: PCI-to-PCI Bridge
+2025-06-13 02:35:38 - DriverUpdater - INFO - Installing PCI-to-PCI Bridge via Windows Update
+2025-06-13 02:35:47 - DriverUpdater - ERROR - Windows Update installation failed for PCI-to-PCI Bridge
+2025-06-13 02:39:19 - DriverUpdater - ERROR - Failed to install update for PCI-to-PCI Bridge
+2025-06-13 02:39:19 - DriverUpdater - INFO - Installing update 14/29: AMD PCI
+2025-06-13 02:39:19 - DriverUpdater - INFO - Downloading driver from https://drivers.amd.com/drivers/installer/22.40/radeon-software-adrenalin-1.0.1.90.exe
+2025-06-13 02:39:20 - DriverUpdater - INFO - Driver downloaded successfully to C:\Users\Ian\AppData\Local\Temp\driver_updater_5q6jfosn\AMD_AMD PCI_1.0.1.90.exe
+2025-06-13 02:39:20 - DriverUpdater - ERROR - Download verification failed for AMD PCI
+2025-06-13 02:39:20 - DriverUpdater - ERROR - Failed to install update for AMD PCI
+2025-06-13 02:39:20 - DriverUpdater - INFO - Installing update 15/29: NVIDIA GeForce RTX 3060
+2025-06-13 02:39:20 - DriverUpdater - INFO - Downloading driver from https://us.download.nvidia.com/Windows/32.0.16.7602/GeForce_Driver.exe
+2025-06-13 02:39:20 - DriverUpdater - ERROR - Error downloading driver: 404 Client Error: Not Found for url: https://us.download.nvidia.com/Windows/32.0.16.7602/GeForce_Driver.exe
+2025-06-13 02:39:20 - DriverUpdater - ERROR - Download failed for NVIDIA GeForce RTX 3060
+2025-06-13 02:39:20 - DriverUpdater - ERROR - Failed to install update for NVIDIA GeForce RTX 3060
+2025-06-13 02:39:20 - DriverUpdater - INFO - Installing update 16/29: NVIDIA GeForce RTX 3080 Ti
+2025-06-13 02:39:20 - DriverUpdater - INFO - Downloading driver from https://us.download.nvidia.com/Windows/32.0.16.7602/GeForce_Driver.exe
+2025-06-13 02:39:20 - DriverUpdater - ERROR - Error downloading driver: 404 Client Error: Not Found for url: https://us.download.nvidia.com/Windows/32.0.16.7602/GeForce_Driver.exe
+2025-06-13 02:39:20 - DriverUpdater - ERROR - Download failed for NVIDIA GeForce RTX 3080 Ti
+2025-06-13 02:39:20 - DriverUpdater - ERROR - Failed to install update for NVIDIA GeForce RTX 3080 Ti
+2025-06-13 02:39:20 - DriverUpdater - INFO - Installing update 17/29: HID-compliant consumer control device
+2025-06-13 02:39:20 - DriverUpdater - INFO - Installing HID-compliant consumer control device via Windows Update
+2025-06-13 02:39:29 - DriverUpdater - ERROR - Windows Update installation failed for HID-compliant consumer control device
+2025-06-13 02:39:29 - DriverUpdater - ERROR - Failed to install update for HID-compliant consumer control device
+2025-06-13 02:39:29 - DriverUpdater - INFO - Installing update 18/29: USB Composite Device
+2025-06-13 02:39:29 - DriverUpdater - INFO - Installing USB Composite Device via Windows Update
+2025-06-13 02:39:37 - DriverUpdater - ERROR - Windows Update installation failed for USB Composite Device
+2025-06-13 02:39:37 - DriverUpdater - ERROR - Failed to install update for USB Composite Device
+2025-06-13 02:39:37 - DriverUpdater - INFO - Installing update 19/29: Generic USB Hub
+2025-06-13 02:39:37 - DriverUpdater - INFO - Installing Generic USB Hub via Windows Update
